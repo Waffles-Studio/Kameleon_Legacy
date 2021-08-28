@@ -1,0 +1,30 @@
+d:\usuarios\usuario\documentos\visual studio 2013\Projects\Kameleon_Legacy\Kameleon_Legacy\bin\Debug\Kameleon_Legacy.exe.config
+d:\usuarios\usuario\documentos\visual studio 2013\Projects\Kameleon_Legacy\Kameleon_Legacy\bin\Debug\Kameleon_Legacy.exe
+d:\usuarios\usuario\documentos\visual studio 2013\Projects\Kameleon_Legacy\Kameleon_Legacy\bin\Debug\Kameleon_Legacy.pdb
+d:\usuarios\usuario\documentos\visual studio 2013\Projects\Kameleon_Legacy\Kameleon_Legacy\obj\Debug\Kameleon_Legacy.csprojResolveAssemblyReference.cache
+d:\usuarios\usuario\documentos\visual studio 2013\Projects\Kameleon_Legacy\Kameleon_Legacy\obj\Debug\Kameleon_Legacy.Form1.resources
+d:\usuarios\usuario\documentos\visual studio 2013\Projects\Kameleon_Legacy\Kameleon_Legacy\obj\Debug\Kameleon_Legacy.Properties.Resources.resources
+d:\usuarios\usuario\documentos\visual studio 2013\Projects\Kameleon_Legacy\Kameleon_Legacy\obj\Debug\Kameleon_Legacy.csproj.GenerateResource.Cache
+d:\usuarios\usuario\documentos\visual studio 2013\Projects\Kameleon_Legacy\Kameleon_Legacy\obj\Debug\Kameleon_Legacy.exe
+d:\usuarios\usuario\documentos\visual studio 2013\Projects\Kameleon_Legacy\Kameleon_Legacy\obj\Debug\Kameleon_Legacy.pdb
+C:\Users\BrianBa3\Desktop\Graficación\Kameleon_2020.09.24\Kameleon_Legacy\Kameleon_Legacy\bin\Debug\Kameleon_Legacy.exe.config
+C:\Users\BrianBa3\Desktop\Graficación\Kameleon_2020.09.24\Kameleon_Legacy\Kameleon_Legacy\obj\Debug\Kameleon_Legacy.exe
+C:\Users\BrianBa3\Desktop\Graficación\Kameleon_2020.09.24\Kameleon_Legacy\Kameleon_Legacy\obj\Debug\Kameleon_Legacy.pdb
+C:\Users\BrianBa3\Desktop\Graficación\Kameleon_2020.09.24\Kameleon_Legacy\Kameleon_Legacy\bin\Debug\Kameleon_Legacy.exe
+C:\Users\BrianBa3\Desktop\Graficación\Kameleon_2020.09.24\Kameleon_Legacy\Kameleon_Legacy\bin\Debug\Kameleon_Legacy.pdb
+C:\Users\BrianBa3\Desktop\Graficación\Kameleon_2020.09.24\Kameleon_Legacy\Kameleon_Legacy\obj\Debug\Kameleon_Legacy.csprojResolveAssemblyReference.cache
+C:\Users\BrianBa3\Desktop\Graficación\Kameleon_2020.09.24\Kameleon_Legacy\Kameleon_Legacy\obj\Debug\Kameleon_Legacy.Form1.resources
+C:\Users\BrianBa3\Desktop\Graficación\Kameleon_2020.09.24\Kameleon_Legacy\Kameleon_Legacy\obj\Debug\Kameleon_Legacy.Properties.Resources.resources
+C:\Users\BrianBa3\Desktop\Graficación\Kameleon_2020.09.24\Kameleon_Legacy\Kameleon_Legacy\obj\Debug\Kameleon_Legacy.csproj.GenerateResource.Cache
+C:\Users\BrianBa3\Desktop\Graficación\Kameleon_Legacy\Kameleon_Legacy\bin\Debug\Kameleon_Legacy.exe.config
+C:\Users\BrianBa3\Desktop\Graficación\Kameleon_Legacy\Kameleon_Legacy\obj\Debug\Kameleon_Legacy.exe
+C:\Users\BrianBa3\Desktop\Graficación\Kameleon_Legacy\Kameleon_Legacy\obj\Debug\Kameleon_Legacy.pdb
+C:\Users\BrianBa3\Desktop\Graficación\Kameleon_Legacy\Kameleon_Legacy\bin\Debug\Kameleon_Legacy.exe
+C:\Users\BrianBa3\Desktop\Graficación\Kameleon_Legacy\Kameleon_Legacy\bin\Debug\Kameleon_Legacy.pdb
+C:\Users\BrianBa3\Desktop\Graficación\Kameleon_Legacy\Kameleon_Legacy\obj\Debug\Kameleon_Legacy.csprojResolveAssemblyReference.cache
+C:\Users\BrianBa3\Desktop\Graficación\Kameleon_Legacy\Kameleon_Legacy\obj\Debug\Kameleon_Legacy.Form1.resources
+C:\Users\BrianBa3\Desktop\Graficación\Kameleon_Legacy\Kameleon_Legacy\obj\Debug\Kameleon_Legacy.Properties.Resources.resources
+C:\Users\BrianBa3\Desktop\Graficación\Kameleon_Legacy\Kameleon_Legacy\obj\Debug\Kameleon_Legacy.csproj.GenerateResource.Cache
+D:\Usuarios\Usuario\Escritorio\Kameleon_Legacy\Kameleon_Legacy\Kameleon_Legacy\bin\Debug\Kameleon_Legacy.exe.config
+D:\Usuarios\Usuario\Escritorio\Kameleon_Legacy\Kameleon_Legacy\Kameleon_Legacy\obj\Debug\Kameleon_Legacy.exe
+D:\Usuarios\Usuario\Escritorio\Kameleon_Legacy\Kameleon_Legacy\Kameleon_Legacy\obj\Debug\Kameleon_Legacy.pdb
